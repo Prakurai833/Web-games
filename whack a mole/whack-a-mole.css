@@ -1,0 +1,35 @@
+.grid{
+    width:612px;
+    height:612px;
+    display:flex;
+    flex-wrap:wrap;
+    
+}
+
+.square{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+}
+.mole{
+    background-color:blue;
+}
+
+#score{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 200%;
+    color: black;
+}
+#time{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 200%;
+    color: black;
+}
+
+h1{
+    align-content:center;
+    size: 500px;
+    
+}
